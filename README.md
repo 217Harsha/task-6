@@ -1,2 +1,2 @@
 # task-6
-customList task
+customList task(collections)
